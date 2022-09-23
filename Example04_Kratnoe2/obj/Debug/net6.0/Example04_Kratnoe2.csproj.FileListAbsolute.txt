@@ -1,0 +1,15 @@
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\bin\Debug\net6.0\Example04_Kratnoe2.exe
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\bin\Debug\net6.0\Example04_Kratnoe2.deps.json
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\bin\Debug\net6.0\Example04_Kratnoe2.runtimeconfig.json
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\bin\Debug\net6.0\Example04_Kratnoe2.dll
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\bin\Debug\net6.0\Example04_Kratnoe2.pdb
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.csproj.AssemblyReference.cache
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.AssemblyInfoInputs.cache
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.AssemblyInfo.cs
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.csproj.CoreCompileInputs.cache
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.dll
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\refint\Example04_Kratnoe2.dll
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.pdb
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\Example04_Kratnoe2.genruntimeconfig.cache
+F:\GB\C#\C#_Siminar02\Example\Example04_Kratnoe2\obj\Debug\net6.0\ref\Example04_Kratnoe2.dll

@@ -1,0 +1,15 @@
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.csproj.AssemblyReference.cache
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.AssemblyInfoInputs.cache
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.AssemblyInfo.cs
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.csproj.CoreCompileInputs.cache
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\bin\Debug\net6.0\Example02_Random.exe
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\bin\Debug\net6.0\Example02_Random.deps.json
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\bin\Debug\net6.0\Example02_Random.runtimeconfig.json
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\bin\Debug\net6.0\Example02_Random.dll
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\bin\Debug\net6.0\Example02_Random.pdb
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.dll
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\refint\Example02_Random.dll
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.pdb
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\Example02_Random.genruntimeconfig.cache
+F:\GB\C#\C#_Siminar02\Example\Example02_Random\obj\Debug\net6.0\ref\Example02_Random.dll

@@ -1,0 +1,15 @@
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\bin\Debug\net6.0\Example05_Kvadrat.exe
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\bin\Debug\net6.0\Example05_Kvadrat.deps.json
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\bin\Debug\net6.0\Example05_Kvadrat.runtimeconfig.json
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\bin\Debug\net6.0\Example05_Kvadrat.dll
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\bin\Debug\net6.0\Example05_Kvadrat.pdb
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.csproj.AssemblyReference.cache
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.AssemblyInfoInputs.cache
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.AssemblyInfo.cs
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.csproj.CoreCompileInputs.cache
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.dll
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\refint\Example05_Kvadrat.dll
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.pdb
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\Example05_Kvadrat.genruntimeconfig.cache
+F:\GB\C#\C#_Siminar02\Example\Example05_Kvadrat\obj\Debug\net6.0\ref\Example05_Kvadrat.dll

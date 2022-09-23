@@ -1,0 +1,15 @@
+F:\GB\C#\C#_Siminar02\Example\example01\bin\Debug\net6.0\example01.exe
+F:\GB\C#\C#_Siminar02\Example\example01\bin\Debug\net6.0\example01.deps.json
+F:\GB\C#\C#_Siminar02\Example\example01\bin\Debug\net6.0\example01.runtimeconfig.json
+F:\GB\C#\C#_Siminar02\Example\example01\bin\Debug\net6.0\example01.dll
+F:\GB\C#\C#_Siminar02\Example\example01\bin\Debug\net6.0\example01.pdb
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.csproj.AssemblyReference.cache
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.AssemblyInfoInputs.cache
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.AssemblyInfo.cs
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.csproj.CoreCompileInputs.cache
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.dll
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\refint\example01.dll
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.pdb
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\example01.genruntimeconfig.cache
+F:\GB\C#\C#_Siminar02\Example\example01\obj\Debug\net6.0\ref\example01.dll

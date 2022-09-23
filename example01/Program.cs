@@ -5,18 +5,26 @@
 85 -> 8
 */
 
-int GetRandomNumber(int leftRange, int rightRange)
+int GetRandomNumber(int leftRange, int RightRange)
 {
- Random rnd = new Random();
- int result = rnd.Next(leftRange, rightRange);
- return result;
+    Random rnd = new Random();
+    int result = rnd.Next(leftRange, RightRange); 
+    return result;
+}    
+
+int GetMaxDigitOfNumber(int number)
+{
+    int firstDigit = number / 10;
+    int secondDigit = number % 10;
+
+    if(firstDigit>secondDigit)
+        return firstDigit;
+    else
+        return secondDigit;
 }
 
-int GetMaxDigitOfNumber(int numer)
-{
-    int firstDigit= GetRandomNumber /10;
-    int secondDigit = GetRandomNumber % 10;
+int number = GetRandomNumber(10, 100);
+Console.WriteLine($"Рандомное число: {number}");
 
-}
-
-
+int maxDigit = GetMaxDigitOfNumber(number);
+Console.WriteLine($"Максимальная цифра: {maxDigit}");

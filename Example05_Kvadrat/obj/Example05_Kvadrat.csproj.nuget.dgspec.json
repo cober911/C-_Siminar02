@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\GB\\C#\\C#_Siminar02\\Example\\Example05_Kvadrat\\Example05_Kvadrat.csproj": {}
+  },
+  "projects": {
+    "F:\\GB\\C#\\C#_Siminar02\\Example\\Example05_Kvadrat\\Example05_Kvadrat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GB\\C#\\C#_Siminar02\\Example\\Example05_Kvadrat\\Example05_Kvadrat.csproj",
+        "projectName": "Example05_Kvadrat",
+        "projectPath": "F:\\GB\\C#\\C#_Siminar02\\Example\\Example05_Kvadrat\\Example05_Kvadrat.csproj",
+        "packagesPath": "C:\\Users\\Leeco\\.nuget\\packages\\",
+        "outputPath": "F:\\GB\\C#\\C#_Siminar02\\Example\\Example05_Kvadrat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leeco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
